@@ -1,0 +1,53 @@
+<!-- Estructura base del documento HTML -->
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <!-- Metadatos y enlace al CSS -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tecnología y Ciberseguridad</title>
+
+    <!-- Vinculación del archivo CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <!-- Encabezado principal -->
+    <header>
+        <h1>Tecnología y Ciberseguridad</h1>
+        <p>Aprende a protegerte en el mundo digital</p>
+    </header>
+
+    <!-- Sección de contenido principal -->
+    <main>
+        <section>
+            <h2>¿Qué es la Ciberseguridad?</h2>
+            <p>La ciberseguridad es el conjunto de prácticas y herramientas que protegen tus datos, dispositivos y privacidad en internet.</p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Cybersecurity.png" alt="Imagen de ciberseguridad">
+        </section>
+
+        <section>
+            <h2>Buenas prácticas</h2>
+            <ul>
+                <li>Usar contraseñas seguras</li>
+                <li>No abrir enlaces sospechosos</li>
+                <li>Actualizar tus dispositivos</li>
+                <li>Utilizar antivirus</li>
+            </ul>
+        </section>
+
+        <!-- Enlaces externos -->
+        <section>
+            <h2>Aprende más</h2>
+            <a href="https://www.incibe.es" target="_blank">Sitio oficial de ciberseguridad (INCIBE)</a>
+        </section>
+    </main>
+
+    <!-- Pie de página -->
+    <footer>
+        <p>Proyecto académico - Programación Front End</p>
+    </footer>
+</body>
+
+</html>
